@@ -6,6 +6,7 @@ daily solving leedcode questions
 ## Array
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/quvonchn/LeetCode-Journal/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/quvonchn/LeetCode-Journal/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Two Pointers
 |  |
@@ -18,6 +19,7 @@ daily solving leedcode questions
 ## Sorting
 |  |
 | ------- |
+| [1200-minimum-absolute-difference](https://github.com/quvonchn/LeetCode-Journal/tree/master/1200-minimum-absolute-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/quvonchn/LeetCode-Journal/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 ## Database
 |  |
