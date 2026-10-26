@@ -26,4 +26,5 @@ daily solving leedcode questions
 | ------- |
 | [0176-second-highest-salary](https://github.com/quvonchn/LeetCode-Journal/tree/master/0176-second-highest-salary) |
 | [0595-big-countries](https://github.com/quvonchn/LeetCode-Journal/tree/master/0595-big-countries) |
+| [1174-immediate-food-delivery-ii](https://github.com/quvonchn/LeetCode-Journal/tree/master/1174-immediate-food-delivery-ii) |
 <!---LeetCode Topics End-->
